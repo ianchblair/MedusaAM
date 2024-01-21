@@ -1,1 +1,1 @@
-Code for projrct Medusa based on Amauri's CBUS library
+Initial code for project Medusa, based on Amauri's CBUS library
